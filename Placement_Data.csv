@@ -1,0 +1,101 @@
+Serial_No,First_Name,Last_Name,Gender,Age,City,Pincode,State,SSC_percentage,SSC_board,HSC_percentage,HSC_board,Specialization_In_HSC,UG_percentage,UG_specialization,Work_experience,Employability_Criteria,PG_percentage,Placed,Company_Name,Job_location,Salary_offered_by_companies
+1,Navneet ,Sankhla,M,22,Mumbai,400005,Maharashtra,88.42,SSC,81,Others,Commerce,68,BCOM,No,7.3,66,Yes,TCS,Mumbai,370000
+2,Prathamesh ,Roge,M,21,Mumbai,400112,Maharashtra,80,SSC,78.33,Others,Science,77.48,IT,Yes,8.6,66.28,Yes,TCS,Delhi,300000
+3,Mansi,Chavan,F,23,Pune,400720,Maharashtra,79.25,ICSE,74,Central,Arts,66,BCOM,No,7.5,70,Yes,Capgemini,Mumbai,350000
+4,Ekta ,Sollet,F,22,Chennai,400301,Tamil Nadu,78.25,SSC,72,Central,Science,72.56,CS,No,6.6,79.65,No,,,
+5,Sayali,Gole,F,21,Chennai,400066,Tamil Nadu,70,CBSE,73.6,Central,Commerce,73.3,BBI,No,9.6,65.4,Yes,TCS,Ahmedabad,425000
+6,Rishab,Singh,M,24,Bangalore,400332,Karnataka,71.22,SSC,49.8,Others,Science,67.25,IT,Yes,4.5,51.58,No,,,
+7,Vishal,Uchil,M,25,Mumbai,400020,Maharashtra,84,SSC,77.2,Others,Commerce,79,BAF,No,7.1,58.29,Yes,TCS,Ahmedabad,425000
+8,Neel,Sagar,M,24,Mumbai,400006,Maharashtra,86.17,ICSE,68,Central,Science,66,BMS,Yes,7.2,62.14,Yes,Infosys,Pune,252000
+9,Bharvi ,Samel,F,22,Pune,401020,Maharashtra,79.31,SSC,79,Central,Commerce,72,BCOM,No,9.1,61.29,Yes,Infosys,Pune,231000
+10,Kunal,Shroff,M,23,Mumbai,411000,Maharashtra,63.36,SSC,62.25,Central,Arts,61,BA ,No,4.4,52.21,No,,,
+11,Vidhi,Saraswat,F,23,New Delhi,421012,Delhi,75,CBSE,66,Central,Commerce,65,BBI,Yes,7.4,60.85,Yes,Accenture,Delhi,360000
+12,Krupa,Kapadia,F,23,New Delhi,455632,Delhi,80.25,CBSE,68.4,Central,Commerce,78.3,BBI,Yes,7,63.7,Yes,Capgemini,Kolkata,285000
+13,Aakash,Nikkam,M,21,Bangalore,452000,Karnataka,82,CBSE,60,Others,Science,69.25,Maths & Stats,No,4.2,62,No,,,
+14,Rita,Jain,F,22,Bangalore,400212,Karnataka,73,ICSE,87,Central,Science,66.4,IT,No,6.8,68.63,Yes,Tech Mahindra,Chennai,318000
+15,Akshay,Kumar,M,25,Mumbai,430230,Maharashtra,58.28,ICSE,47,Central,Commerce,50,BAF,No,3.6,54.96,No,,,
+16,Ritti,Shetty,F,21,Pune,485203,Maharashtra,70.25,SSC,75,Central,Commerce,69,BBI,Yes,5.2,54.66,Yes,L&T,Bangalore,310000
+17,Umang,Nagda,M,24,Chennai,478962,Tamil Nadu,69.6,SSC,66.2,Central,Arts,65.6,BA,Yes,4.9,52.25,Yes,L&T,Bangalore,288000
+18,Payal,Pahilani,F,22,Bangalore,485253,Karnataka,47,SSC,57,Central,Arts,56,BA,No,5.3,54,No,,,
+19,Mariya,Mansuri,F,23,Chennai,403030,Tamil Nadu,77,SSC,72.5,Central,Commerce,64,BCOM,No,7.1,64.08,Yes,L&T,Bangalore,300000
+20,Vishwesh,Sosa,M,24,Mumbai,402012,Maharashtra,80.36,ICSE,65.25,Others,Science,70,IT,Yes,7.2,71.3,Yes,Accenture,Mumbai,336000
+21,Darshan,Jain,M,22,Mumbai,400222,Maharashtra,77.22,SSC,58.26,Others,Science,66,IT,No,7.7,54.64,Yes,Tech Mahindra,Chennai,275520
+22,Akshay,Lulla,M,23,Pune,421023,Maharashtra,78.96,SSC,68.25,Others,Science,70.25,Maths & Stats,No,4,54.3,No,,,
+23,Samudra,Gupta,M,24,New Delhi,421022,Delhi,66,ICSE,68.23,Central,Commerce,62.25,BCOM,No,3,56.23,No,,,
+24,Aakash ,Shirsekar,M,21,Bangalore,400333,Karnataka,78,CBSE,71.52,Central,Arts,64.74,BA,Yes,7.1,60.25,Yes,L&T,Mumbai,262000
+25,Huzaifa,Noori,M,21,Bangalore,400323,Karnataka,64.23,CBSE,52.36,Central,Arts,78.86,BA,Yes,3.8,46,No,,,
+26,Lezlie,Peacock,F,24,Mumbai,400212,Maharashtra,76.5,CBSE,97.7,Central,Commerce,70.2,BAF,No,9.1,61.44,Yes,Infosys,Pune,300000
+27,Marabel,Jayne,F,22,Pune,430230,Delhi,52.58,CBSE,54.6,Central,Commerce,66,BBI,Yes,4.4,58.32,No,,,
+28,Harlan,Roset,M,23,New Delhi,485203,Delhi,81,CBSE,88,Others,Arts,77,BA,No,6.2,72.25,No,,,
+29,Dante,Vasilyev,M,23,Bangalore,478962,Karnataka,73,ICSE,75,Central,Arts,67.5,BA,Yes,7,72.78,Yes,Infosys,Pune,300000
+30,Cyrille,Doddrell,M,23,Bangalore,485253,Karnataka,76.76,ICSE,76.5,Central,Commerce,68,BCOM,Yes,7.5,62.77,Yes,Infosys,Mumbai,250000
+31,Lammond,Sieghard,M,21,Bangalore,403030,Maharashtra,62,SSC,67,Central,Science,45,IT,No,4.4,48,No,,,
+32,Brit,Dunbobin,M,22,Mumbai,402012,Maharashtra,64,SSC,59.54,Central,Science,65,IT,No,3.6,51.45,No,,,
+33,Josee,Kenwin,F,21,Mumbai,400222,Tamil Nadu,77.25,SSC,73.45,Central,Arts,66.4,BA,No,6.8,65.8,Yes,Accenture,Chennai,275520
+34,Sumner,Bedding,M,24,Pune,421023,Karnataka,61,SSC,69,Others,Arts,41,BA,No,4.9,56.86,No,,,
+35,Danni,Lenaghen,F,22,Mumbai,421022,Tamil Nadu,67,SSC,65,Others,Commerce,52,BAF,No,4.5,62.56,No,,,
+36,Skippy,Rentalll,M,23,New Delhi,411000,Maharashtra,72,ICSE,71,Others,Science,72,BMS,Yes,6.9,66.72,Yes,Accenture,Kolkata,336000
+37,Belvia,Drysdell,F,24,New Delhi,421012,Maharashtra,69,CBSE,78,Others,Commerce,57,BCOM,Yes,6.3,69.76,No,,,
+38,Shanie,Moncreiff,F,21,Bangalore,455632,Maharashtra,81,CBSE,74,Central,Arts,65.6,BA ,No,7.1,69,Yes,Accenture,Kolkata,336000
+39,Arnie,Volleth,M,21,Bangalore,452000,Maharashtra,79,CBSE,76,Others,Commerce,68,BBI,No,5.9,62.9,Yes,Accenture,Chennai,275520
+40,Bertine,Hanner,F,24,Pune,400301,Delhi,84,CBSE,78,Others,Commerce,72,BBI,No,7.2,69.7,Yes,Accenture,Chennai,275520
+41,Hughie,Pointing,M,22,Pune,400066,Karnataka,81,CBSE,70,Central,Science,80,Maths & Stats,No,6.7,68.53,Yes,Tech Mahindra,Mumbai,300000
+42,Laney,Ardern,M,22,New Delhi,400332,Karnataka,73.5,ICSE,64.8,Central,Commerce,54,BBI,Yes,4.2,57.31,No,,,
+43,Ashien,Dietzler,F,21,New Delhi,400020,Maharashtra,54.4,ICSE,62,Central,Science,64,Maths & Stats,Yes,6.8,59.47,No,,,
+44,Mona,Greenman,F,23,Bangalore,400006,Delhi,80.54,SSC,70.4,Others,Arts,68,BA,Yes,7.2,64.95,Yes,Tech Mahindra,Chennai,336000
+45,Willi,Challiss,F,22,Bangalore,401020,Delhi,80,SSC,80,Others,Science,76,IT,No,3.6,58.44,No,,,
+46,Janaya,Hessing,F,21,Pune,401020,Maharashtra,74,CBSE,90.9,Central,Commerce,71,BCOM,No,9.6,70.25,Yes,Tech Mahindra,Chennai,336000
+47,Elyse,Ferrillo,F,24,Mumbai,411000,Maharashtra,60.4,SSC,62,Central,Science,62,CS,No,4.5,55.83,No,,,
+48,Keelby,Verry,M,25,New Delhi,421012,Delhi,63,ICSE,62,Others,Commerce,63,BCOM,Yes,3.9,58.23,No,,,
+49,Marrissa,MacFaell,F,21,New Delhi,455632,Delhi,74.42,ICSE,68.25,Central,Science,60,CS,Yes,6.3,64.8,Yes,Tech Mahindra,Chennai,336000
+50,Pamelina,Le - Count,F,21,Bangalore,452000,Karnataka,63,ICSE,72.32,Central,Science,59,IT,No,6.8,68.63,Yes,Infosys,Pune,231000
+51,Granthem,Titchen,M,24,Bangalore,400212,Karnataka,58.28,ICSE,47,Central,Commerce,50,BAF,No,3.6,54.96,No,,,
+52,Dolley,Finders,F,22,Mumbai,430230,Maharashtra,78,SSC,75,Central,Commerce,71,BBI,Yes,7.2,64.66,Yes,Accenture,Chennai,275520
+53,Reg,Capun,M,23,Pune,485203,Maharashtra,79.6,SSC,74.5,Central,Arts,65.6,BA,Yes,6.3,62.54,Yes,L&T,Bangalore,288000
+54,Anetta,Drayn,F,23,Chennai,478962,Tamil Nadu,47,SSC,67,Central,Arts,64,BA,No,7.1,67.28,No,,,
+55,Federica,Harmes,F,23,Bangalore,485253,Karnataka,79,SSC,78,Central,Commerce,72,BCOM,No,7.1,64.08,Yes,Infosys,Pune,231000
+56,Obie,Hedley,M,21,Chennai,403030,Tamil Nadu,80.36,ICSE,65.25,Others,Science,70,IT,Yes,7.2,71.3,Yes,Accenture,Chennai,275520
+57,Arabel,Cross,F,22,Mumbai,402012,Maharashtra,77.22,SSC,69.25,Others,Science,66,IT,No,6.7,67.96,Yes,TCS,Delhi,300000
+58,Ximenez,Sneezem,M,21,Mumbai,400222,Maharashtra,78.96,SSC,72.3,Others,Science,85,Maths & Stats,Yes,6.3,62.25,Yes,Accenture,Chennai,275520
+59,Renado,Matskevich,M,24,Pune,421023,Maharashtra,78.56,ICSE,72.56,Central,Commerce,72.23,BCOM,Yes,7.3,72.25,Yes,TCS,Delhi,300000
+60,Milt,Stolze,M,22,New Delhi,421022,Delhi,88,CBSE,76,Central,Arts,64.74,BA,Yes,6.9,70.25,Yes,Accenture,Chennai,275520
+61,Dallis,Chilley,M,23,Bangalore,400333,Karnataka,64.23,CBSE,52.36,Central,Arts,78.86,BA,Yes,3.8,46,No,,,
+62,Andrea,Droghan,M,24,New Delhi,421012,Delhi,76.5,CBSE,97.7,Central,Commerce,70.25,BAF,No,9.1,72.25,Yes,TCS,Delhi,300000
+63,Sapphira,Abrahams,F,21,New Delhi,455632,Delhi,52.58,CBSE,54.6,Central,Commerce,66,BBI,Yes,4.4,58.32,No,,,
+64,Gilli,Minards,F,21,Bangalore,452000,Karnataka,61,CBSE,79,Others,Arts,66,BA,No,6.2,54.25,No,,,
+65,Gerrilee,Edwin,F,22,Bangalore,400212,Karnataka,83,ICSE,77,Central,Arts,72,BA,No,7,72.78,Yes,TCS,Mumbai,370000
+66,Caryl,Bland,F,22,Mumbai,430230,Maharashtra,88.42,SSC,81,Others,Commerce,62,BCOM,No,6.3,60,Yes,Infosys,Pune,231000
+67,Lawton,Lacrouts,M,21,Pune,485203,Maharashtra,74,SSC,78.33,Others,Science,77.48,IT,Yes,8.6,66.28,Yes,Infosys,Pune,231000
+68,Currie,Ionesco,M,23,Chennai,478962,Tamil Nadu,82.25,ICSE,74,Central,Arts,64,BCOM,No,7.5,67.8,Yes,Infosys,Pune,231000
+69,Kaylyn,Minichi,F,22,Bangalore,485253,Karnataka,66.32,SSC,52,Central,Science,52,CS,No,3.6,59.43,No,,,
+70,Lena,Briers,F,21,Chennai,403030,Tamil Nadu,70,CBSE,73.6,Central,Commerce,73.3,BBI,No,9.6,65.5,Yes,L&T,Bangalore,288000
+71,Coleman,Scripture,M,24,Mumbai,402012,Maharashtra,81.22,SSC,49.8,Others,Science,67.25,IT,Yes,4.5,51.58,No,,,
+72,Farrand,Muirden,F,25,Mumbai,400222,Maharashtra,74.25,SSC,49.2,Others,Commerce,59,BAF,No,3.9,53.29,No,,,
+73,Leigha,Pittoli,F,21,Bangalore,400212,Karnataka,86.17,ICSE,68,Central,Science,68,BMS,Yes,6.8,64.14,Yes,TCS,Mumbai,370000
+74,Tracey,Wimpress,M,21,Mumbai,430230,Maharashtra,79.31,SSC,73,Central,Commerce,70,BCOM,No,7.3,69.2,Yes,TCS,Delhi,300000
+75,Germaine,LLelweln,F,24,Pune,485203,Maharashtra,63.36,SSC,58,Central,Arts,59,BA ,No,4.4,52.21,No,,,
+76,Christian,Maddie,M,22,Chennai,478962,Tamil Nadu,85,CBSE,61,Central,Commerce,69,BBI,Yes,6.2,62.25,Yes,L&T,Bangalore,288000
+77,Joanna,Le Borgne,F,23,Bangalore,485253,Karnataka,84.48,CBSE,70.2,Central,Commerce,78.3,BBI,Yes,7,63.7,Yes,TCS,Delhi,300000
+78,Lanna,Hamnett,F,23,Chennai,403030,Tamil Nadu,62,CBSE,55,Others,Science,65,Maths & Stats,No,4.2,55.04,No,,,
+79,Louisa,Tuttle,F,23,Mumbai,402012,Maharashtra,73,ICSE,87,Central,Science,69,IT,No,6.8,68.63,Yes,TCS,Mumbai,370000
+80,Amil,Freake,F,21,Mumbai,400222,Maharashtra,58.28,ICSE,47,Central,Commerce,50,BAF,No,3.6,54.96,No,,,
+81,Kenn,Lys,M,22,Pune,421023,Maharashtra,88,SSC,74,Central,Commerce,69,BBI,Yes,7.2,64.66,Yes,Tech Mahindra,Chennai,318000
+82,Padgett,Souttar,M,21,New Delhi,421022,Delhi,79.6,SSC,79.04,Central,Arts,65.6,BA,Yes,6.3,69.25,Yes,Tech Mahindra,Chennai,318000
+83,Frankie,Sebborn,F,24,Bangalore,400333,Karnataka,47,SSC,67,Central,Arts,64,BA,No,7.1,57.28,No,,,
+84,Carroll,Dodshun,F,22,New Delhi,421012,Delhi,70,SSC,66,Central,Commerce,64,BCOM,No,4.9,54,No,,,
+85,Conway,Huntly,M,23,New Delhi,455632,Delhi,80.36,ICSE,75.21,Others,Science,70,IT,Yes,7.2,71.3,Yes,TCS,Mumbai,370000
+86,Konstance,Dahlbom,F,24,Bangalore,452000,Karnataka,88.42,SSC,81,Others,Commerce,72,BCOM,No,7.3,68.9,Yes,Capgemini,Mumbai,350000
+87,Andre,Guisby,M,21,Bangalore,400212,Karnataka,84.25,SSC,78.33,Others,Science,77.48,IT,Yes,8.6,66.28,Yes,Capgemini,Mumbai,350000
+88,Camella,Hise,F,22,Mumbai,430230,Maharashtra,89,ICSE,78,Central,Arts,74,BCOM,No,7.5,67.8,Yes,TCS,Delhi,300000
+89,Claire,Dyott,M,22,Pune,485203,Maharashtra,66.32,SSC,52,Central,Science,52,CS,No,3.6,59.43,No,,,
+90,Broderick,Stuke,M,22,Chennai,478962,Tamil Nadu,80,CBSE,73.6,Central,Commerce,73.3,BBI,No,9.6,75.25,Yes,Capgemini,Mumbai,350000
+91,Georas,McCoish,M,23,Bangalore,485253,Karnataka,91.22,SSC,80,Others,Science,67.25,IT,Yes,4.5,71.4,Yes,TCS,Mumbai,370000
+92,Arvin,Cadwaladr,M,24,Chennai,403030,Tamil Nadu,84,SSC,79.92,Others,Commerce,79,BAF,No,5.9,69.05,Yes,TCS,Mumbai,370000
+93,Charmine,Ferrieroi,F,25,Mumbai,402012,Maharashtra,86.17,ICSE,74,Central,Science,66,BMS,Yes,6.8,65.8,Yes,Tech Mahindra,Chennai,318000
+94,Gwendolin,Leftly,F,24,Bangalore,400212,Karnataka,79.31,SSC,79,Central,Commerce,72,BCOM,No,9.1,68.25,Yes,Capgemini,Mumbai,350000
+95,Alidia,Jantot,F,22,Mumbai,430230,Maharashtra,63.36,SSC,60,Central,Arts,61,BA ,No,4.4,52.21,No,,,
+96,Laird,Kennelly,M,23,Pune,485203,Maharashtra,85,CBSE,71,Central,Commerce,70,BBI,Yes,6.2,70.85,Yes,Tech Mahindra,Chennai,318000
+97,Yancy,Gueinn,M,23,Chennai,478962,Tamil Nadu,88.94,CBSE,68.4,Central,Commerce,78.3,BBI,Yes,7,63.7,Yes,Capgemini,Mumbai,350000
+98,Chet,Northage,M,23,Bangalore,485253,Karnataka,58,CBSE,55,Others,Science,64,Maths & Stats,No,4.2,55.04,No,,,
+99,Mylo,Merwe,M,21,Chennai,403030,Tamil Nadu,82,SSC,75,Central,Commerce,72,BBI,Yes,7.2,68.26,Yes,L&T,Bangalore,288000
+100,Raff,Bonnyson,M,22,Mumbai,402012,Maharashtra,72.3,SSC,68,Central,Arts,65.6,BA,Yes,6.3,70,Yes,L&T,Bangalore,288000
